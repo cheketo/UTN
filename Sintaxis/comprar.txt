@@ -1,0 +1,4 @@
+K1GT4
+Apunte de referencia para lenguaje C
+
+Libro de Sintaxis y Semantica de los Lenguajes de Programación

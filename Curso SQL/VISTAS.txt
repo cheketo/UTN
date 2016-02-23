@@ -1,0 +1,10 @@
+CREATE VIEW nueva_vista (col1)
+AS SELECT profile_id FROM admin_profile
+
+Ejercicio
+
+CREATE VIEW usuario_menu (usuario,menu)
+AS SELECT  CONCAT(u.first_name,' ',u.last_name), m.title
+FROM admin_user u INNER JOIN relation_menu_profile r ON r.profile_id = u.profile_id
+INNER JOIN menu m ON m.menu_id = r.menu_id
+ORDER BY u.first_name,u.last_name

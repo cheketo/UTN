@@ -1,0 +1,16 @@
+Logs de Bitácora:
+
+-Login
+-Logout
+-Creación de Usuario
+-Creación de Socio
+-Update de Usuario
+-Upadte de Socio
+-Borrado de Usuario
+-Borrado de Socio
+-Cambio de Password
+
+
+campos:
+
+bitacora_id | usuario_id | accion | fecha | tabla | reg_afectados | ids_afectados | query |

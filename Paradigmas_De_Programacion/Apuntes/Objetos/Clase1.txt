@@ -1,0 +1,38 @@
+Objeto:
+
+- Expone una interfaz(Conjunto de mensajes)
+- Puede tener un estado interno (Recordar cierta información)
+- Tiene una indentidad (ID)
+
+El objeto solo me va a servir para enviar mensajes
+Una variable es una referencia de un objeto (SIEMPRE apunta a un objeto)
+
+Un método es la implementación de un mensaje.
+
+Ej:
+
+#Pepita(energia)
+
+ >> come: unaCantidad
+
+	energia:=energia + (unaCantidad *10)
+
+>> vola: unaDistancia
+
+	energia := energia - (unaDistancia*2) - 5
+
+>>energia
+
+	^energia
+
+
+Todos los objetos envian un objeto cuando mandan un mensaje
+
+Por convención, en SmallTalk si un método lee una variable se nombran igual que la variable.
+
+Existen 3 tipos de mensajes:
+
+- Unarios Ej: energia
+- Binarios Ej: +,*,- 
+- PlabraClave Ej: come:, vola: 
+	

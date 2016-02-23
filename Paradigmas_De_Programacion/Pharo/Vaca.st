@@ -1,0 +1,1 @@
+'From Pharo2.0 of 7 March 2013 [Latest update: #20619] on 18 September 2013 at 8:34:08 pm'!Object subclass: #Vaca	instanceVariableNames: 'pesoanimal'	classVariableNames: ''	poolDictionaries: ''	category: 'Revelion'!

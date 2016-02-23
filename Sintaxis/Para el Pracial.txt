@@ -1,0 +1,12 @@
+30/05-> Consultas del parcial
+06/06-> Parcial
+
+Comprar K1GT4 en fotocopiadora
+
+1- Derivación
+2- Lexemas y Tokens
+3- Definición Formal (DF) de una GIC
+4- Semántica
+5- MetaExpreciónRegular (MetaER) (Práctica)
+
+De los 5 ejercicios hay que aprobar 4, para alcanzar al 4. Si hay más de dos hechos o mal resueltos, se recuperan esos.
